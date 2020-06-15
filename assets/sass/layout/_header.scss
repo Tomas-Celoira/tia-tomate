@@ -1,0 +1,14 @@
+.header {
+    background-color: $jelly-bean;
+    color: $snow;
+    height: 90vh;
+    text-align: center;
+}
+
+.header__title {
+    width: 8em;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+}

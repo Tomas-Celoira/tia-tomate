@@ -1,0 +1,114 @@
+.main__title {
+    font-weight: $bold;
+    font-size: 3em;
+    padding-top: 2%;;
+}
+
+.main__div-center {
+    width: 50%;
+    left: 50%;
+    transform: translateX(50%);
+    padding: 2%;
+}
+
+.main__parrafo {
+    text-align: left;
+    margin: 0px;
+    padding: 1%;
+
+}
+
+.section__div-info {
+    text-align: center;
+}
+
+.image__about-1 {
+    width: 60%;
+    left: 50%;
+    margin-top: 5%;
+}
+
+.image__about-2 {
+    width: 60%;
+    left: 50%;
+    margin-top: 5%;
+}
+
+.image__about-3 {
+    width: 30%;
+    left: 50%;
+    margin-top: 5%;
+}
+
+.image__about-4 {
+    width: 30%;
+    left: 50%;
+    margin-top: 5%;
+}
+
+.section__title-javiera {
+    font-weight: $bold;
+    font-size: $large;
+    padding: 2%;
+}
+
+.section__parrafo {
+    font-weight: $regular;
+    text-align: left;
+}
+
+.section__title {
+    font-weight: $bold;
+    padding: 7%;
+}
+
+.section__info-javiera {
+    left: 50%;
+    transform: translateX(50%);
+    width: 50%;
+    padding: 0%;
+    text-align: center;
+}
+.section__info-roberto {
+    left: 50%;
+    transform: translateX(50%);
+    width: 50%;
+    padding-bottom: 5%;
+    text-align: center;
+
+}
+
+.footer__div {
+    height: 40vh;
+    text-align: center;
+}
+
+.footer__title {
+    font-weight: $bold;
+    font-size: $x-large;
+    text-align: center;
+    padding: 3%;
+}
+
+.footer__button {
+    height: 100px;
+    width: 500px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50px;
+    background-color: $white;
+}
+
+.footer__button-typo {
+    font-size: $large;
+    color: $granite-gray;
+}
+
+.footer__div-logo {
+    text-align: center;
+}
+
+.image__logo-footer {
+    width: 15%;
+    margin: 5%;
+}
